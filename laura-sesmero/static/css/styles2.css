@@ -1,0 +1,148 @@
+/* Banner */
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('https://source.unsplash.com/1600x900/?writing,books') no-repeat center center/cover;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* Formulario */
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Botón */
+.btn-primary {
+    background-color: #b8860b;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1.1rem;
+    transition: background 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #a37407;
+}
+
+/* Footer */
+.footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: auto;
+}
+
+/* Sobre nosotros 
+.about-section {
+    padding: 60px 0;
+}
+.about-text {
+    font-size: 18px;
+    line-height: 1.8;
+}
+.about-image img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.content-section {
+    padding: 50px 0;
+}
+.image-section img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.testimonial {
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.testimonial img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+} */
+
+/* Carta 
+.menu-section {
+    padding: 50px 0;
+    text-align: center;
+}
+.menu-category {
+    margin-bottom: 30px;
+}
+.menu-item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+.menu-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.menu-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.order-section {
+    text-align: center;
+    padding: 50px 0;
+}
+.order-section img {
+    width: 250px;
+    margin-bottom: 20px;
+} */
+
+/* Botones 
+.btn-custom {
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 30px;
+    border: none;
+    transition: 0.3s;
+}
+.btn-download {
+    background: #007bff;
+    color: white;
+}
+.btn-download:hover {
+    background: #0056b3;
+}
+.btn-order {
+    background: #28a745;
+    color: white;
+}
+.btn-order:hover {
+    background: #1e7e34;
+} */
+
+/* Contacto 
+.contact-info {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+} */
